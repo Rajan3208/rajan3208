@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan3208&show_icons=true&locale=en" alt="rajan3208" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajan3208" alt="GitHub Streak" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan3208&theme=default" alt="rajan3208" /></p>
 
 
 
