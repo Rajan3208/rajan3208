@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Mobile Applications Development and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://share.streamlit.io/user/rajan3208)
+- 👨‍💻 All of my projects are available at https://share.streamlit.io/user/rajan3208
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rajan-singh-5a9089295/](https://www.linkedin.com/in/rajan-singh-5a9089295/)
 
