@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Mobile Applications Development and Machine Learning**
 
-- 👨‍💻 All of my projects are available at https://share.streamlit.io/user/rajan3208
+- 👨‍💻 Download my app available on play store https://play.google.com/store/apps/details?id=com.rajan.bullseye
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rajan-singh-5a9089295/](https://www.linkedin.com/in/rajan-singh-5a9089295/)
+- 📝 I regularly post best stuff on [https://www.linkedin.com/in/rajan-singh-5a9089295/](https://www.linkedin.com/in/rajan-singh-5a9089295/)
 
 - 💬 Ask me about **AI/ML, DSA, Mobile Application, Webapp**
 
